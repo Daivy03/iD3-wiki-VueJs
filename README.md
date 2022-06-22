@@ -21,7 +21,7 @@ Indice:
 
 ## Info sul progetto
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac aliquam diam. Sed finibus velit elit, ut condimentum nisl feugiat in. Pellentesque tempus orci non magna elementum, ut euismod eros ornare. In aliquam non velit at fermentum. Nam erat nunc, cursus nec mauris eget, pharetra faucibus nibh. Integer maximus nisi sit amet lorem tempor tristique. Nam lacinia odio eget sem varius aliquet. Aenean eget eros vel nunc maximus efficitur et nec enim. In placerat urna non nisl elementum, vel sodales dui scelerisque. </p>
+<p>L'obiettivo di questo progetto è quello di rifare il frontend (la parte che vede l'utente finale) di un portale usato per la distribuzione dell'energia. Il nostro compito è quello di ricreare le pagine del sito attuale, usando i componenti del workframe scelto, in questo caso, Vuetify. Altre persone (più esperte) si occuperanno della parte di backend del progetto, probabilmente alcune saranno nella vostra stessa stanza. Se avete dubbi, domande o perplessità, non abbiate paura a fargli domande.</p>
 
 ### Basato su
 
