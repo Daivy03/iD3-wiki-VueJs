@@ -93,3 +93,20 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
  Talvolta può capitare che in una colonna della tabella vogliate mostrare più di una cosa oppure vorrete inserire dei bottoni o delle icone ecc. Per fare ciò
   dovrete usare un uno slot. Quando si usa <code>v-slot</code>, questo viene passato nell'ambito degli slot, come da documentazione. Tuttavia, ci sono altri componenti più complessi, per i quali è necessario legare gli attributi ai componenti corretti, per garantire un supporto adeguato, andando poi a dire cosa mettere in quella colonna/e.
 </p>
+
+### <a href="https://vuetifyjs.com/en/components/grids/#v-col">v-row & v-col</a>
+<p>
+    Questi due componenti vengono usati per creare delle griglie.
+    Il tag v-col deve essere dentro al tag v-row; dentro ad uno stesso tag v-row ci possono essere più tag v-col (questo vuol dire più colonne nella riga).
+    Il tag v-row può essere accompagnato dalla proprietà dense, che permette di mostrare le righe "più attaccate" tra loro, risulta molto utile quando si hanno molte
+    righe con dati; per quanto riguarda v-col la proprietà cols (cols="n"), con un numero al posto di n (tra 1 e 12, dove 1 è il minimo e 12 il massimo), è molto utile
+    in quanto permette di decidere quante colonne devono essere occupate da un certo elemento.
+</p>
+
+### <a href="https://vuetifyjs.com/en/components/icons/">v-icon</a>
+<p>
+    Potrebbe essere che vi serva di aggiungere delle icone alla vostra tabella/pagina/bottone. Per poterle aggiungere bisognare mettere un tag v-icon, e tra il tag di 
+    apertura e quello di chiusura va il nome dell'icona che volete mettere; i nomi delle icone potete trovarli <a href="https://materialdesignicons.com/">cliccando 
+    qui</a> e cercando l'icona che più vi aggrada.
+    È possibile cambiare il colore dell'icona attraverso la proprietà color (color="coloreDesiderato").
+</p>
