@@ -88,7 +88,7 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
 
 <p>
     Le <code>v-data-table</code> sono fondamentali per mostrare dati sottoforma di tabelle.
-    Il loro utilizzo è relativemente semplice; nella tag di apertura vanno inserite le prop,ovvero properties, (Ad esempio con i : davanti alla prop questa assumerà il valore della variabile indicata, altrimenti assumerà valore di stringa) la prop <code>:headers<code>, e <code>:items<code> sono fondamentali per caricare le intestazioni che devono essere usate (headers) e i dati che la tabella dovrà mostrare (items).
+    Il loro utilizzo è relativemente semplice; nella tag di apertura vanno inserite le prop,ovvero properties, (Ad esempio con i : davanti alla prop questa assumerà il valore della variabile indicata, altrimenti assumerà valore di stringa) la prop <code>:headers</code>, e <code>:items</code> sono fondamentali per caricare le intestazioni che devono essere usate (headers) e i dati che la tabella dovrà mostrare (items).
  Talvolta può capitare che in una colonna della tabella vogliate mostrare più di una cosa oppure vorrete inserire dei bottoni o delle icone ecc. Per fare ciò
   dovrete usare un uno slot. Quando si usa <code>v-slot</code>, questo viene passato nell'ambito degli slot, come da documentazione. Tuttavia, ci sono altri componenti più complessi, per i quali è necessario legare gli attributi ai componenti corretti, per garantire un supporto adeguato, andando poi a dire cosa mettere in quella colonna/e.
 </p>
