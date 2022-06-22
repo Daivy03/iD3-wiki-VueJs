@@ -27,12 +27,17 @@
 <p></p>
 
 ## Per Cominciare
-<p></p>
+<p>
+ Serve un account di github (da configurare con git per windows), bisogna aver installato NodeJs
+
+
+
+</p>
 
 ### Prerequisiti
 <ul>
-  <li><a href="https://nodejs.org/it/">NodeJs LTS</a></li>
-  <li><a href="https://git-scm.com/downloads">Git</a></li>
+  <li><a href="https://nodejs.org/it/">NodeJs</a>- versione LTS</li>
+  <li><a href="https://git-scm.com/downloads">Git</a>- Windows/Linux</li>
  </ul>
 
 ### Installazione
