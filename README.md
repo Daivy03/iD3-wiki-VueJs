@@ -108,3 +108,5 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
     Potrebbe essere che vi serva di aggiungere delle icone alla vostra tabella/pagina/bottone. Per poterle aggiungere bisognare mettere un tag <code>v-icon</code>, e tra il tag di apertura e quello di chiusura va il nome dell'icona che volete mettere; le icone usate di default sono di Material Design Iconse potete trovarli <a href="https://materialdesignicons.com/">cliccando qui</a> e scegliere l'icona che più vi aggrada.
 È possibile cambiare il colore dell'icona attraverso la proprietà color <code>color="coloreDesiderato"</code>. Alcuni di questi colori possono essere definiti nei file di config ad esempio possiamo usare le parole chiavi <code>primary</code> o <code>success</code> o <code>error</code> per applicare i colori definiti di default oppure personalizzarli a nostro piacimento.
 </p>
+<!-- Icons Links -->
+[![github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)][1]
