@@ -1,6 +1,6 @@
 # wiki for Vuetify Material Design Framework & VueJs
 
-# Indice:
+<h2> Indice:</h2>
 
 <ul>
     <li>
