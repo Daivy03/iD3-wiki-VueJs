@@ -1,6 +1,6 @@
 # wiki for Vuetify Material Design Framework & VueJs
 
-Indice:
+## Indice:
 
 <ul>
     <li>
