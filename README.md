@@ -34,7 +34,7 @@
 ## Per Cominciare
 
 <p>
-Bisogna aver installato NodeJs, Git (da usare insieme ad un account <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="10px" height="5px">github) e 
+Bisogna aver installato NodeJs, Git (da usare insieme ad un account github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="16px" height="18px">) e 
 infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto il necessario
 
 </p>
