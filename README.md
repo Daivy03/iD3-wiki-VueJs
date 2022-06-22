@@ -87,7 +87,7 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
 ### <a href="https://vuetifyjs.com/en/components/data-tables/">data-table</a>
 
 <p>
-    Le <code>v-data-table<code> sono fondamentali per mostrare dati sottoforma di tabelle.
+    Le <code>v-data-table</code> sono fondamentali per mostrare dati sottoforma di tabelle.
     Il loro utilizzo è relativemente semplice; nella tag di apertura nelle prop (con davanti i due punti, sintassi di tutte le prop) headers, e items si dice quali 
     sono le intestazioni che devono essere usate (headers) e quali siano i dati che la tabella dovrà mostrare (items).
     Talvolta può capitare che in una cella della tabella volgiate mostrare più di una cosa oppure in quella cella vanno dei bottoni o delle icone. Per fare ciò
