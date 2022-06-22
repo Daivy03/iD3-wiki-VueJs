@@ -30,7 +30,10 @@
 <p></p>
 
 ### Prerequisiti
-<p></p>
+<ul>
+  <li><a href="https://nodejs.org/it/">NodeJs LTS</a></li>
+  <li><a href="https://git-scm.com/downloads">Git</a></li>
+ </ul>
 
 ### Installazione
 <p></p>
