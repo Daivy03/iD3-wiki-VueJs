@@ -48,8 +48,8 @@ infine un editor che supporti la sintassi di javascript. Di seguito troverai tut
   <li>
     <a href="https://visualstudio.microsoft.com/it/vs/community/">Visual Studio Community</a>
   </li>
-  <li><a href="https://www.jetbrains.com/products/#lang=js">Jetbrains IDE</a> come <a href="https://www.jetbrains.com/webstorm/">Webstorm</a>, 
-    <a href="https://www.jetbrains.com/phpstorm/">PhpStorm</a> ecc. (non gratuiti ma disponibili in versione studente)
+  <li><a href="https://www.jetbrains.com/products/#lang=js" target="_blank">Jetbrains IDE</a> come <a href="https://www.jetbrains.com/webstorm/" target="_blank">Webstorm</a>, 
+    <a href="https://www.jetbrains.com/phpstorm/" target="_blank">PhpStorm</a> ecc. (non gratuiti ma disponibili in versione studente)
   </li>
   </ul>
   </li>
