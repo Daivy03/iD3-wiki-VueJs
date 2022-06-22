@@ -11,7 +11,7 @@ Indice:
     <li>
     <a href="#per-cominciare">Per Cominciare</a>
   <ul>
-    <li><a href="#prerequisiti">Prerequisiti</a></li>
+    <li><a href="#prerequisiti">Requisiti</a></li>
     <li><a href="#installazione">Installazione</a></li>
   </ul>
     </li>
@@ -28,7 +28,7 @@ Indice:
 ## Per Cominciare
 <p>
 Bisogna aver installato NodeJs, Git (da usare insieme ad un account github) e 
-infine un editor che supporti la sintassi di javascript.
+infine un editor che supporti la sintassi di javascript. Di seguito troverai tutto il necessario
   
 
 </p>
