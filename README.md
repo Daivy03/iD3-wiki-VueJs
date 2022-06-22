@@ -28,10 +28,19 @@
 
 ## Per Cominciare
 <p>
- Serve un account di github (da configurare con git per windows), bisogna aver installato NodeJs
-
-
-
+Bisogna aver installato NodeJs, Git (da usare insieme ad un account github) e 
+infine un editor che supporti la sintassi di javascript.
+  
+#### Alcuni esempi:
+<ul>
+  <li>Visual Studio Code (consigliato perchè possiede molte estensioni per JS/VueJS)
+  </li>
+  <li>
+    Atom
+  </li>
+  <li>Jetbrains IDE come Webstorm, PhpStorm ecc. (non gratuiti ma disponibili in versione scolastica)
+  </li>
+  </ul>
 </p>
 
 ### Prerequisiti
