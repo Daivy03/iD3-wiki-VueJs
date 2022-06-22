@@ -97,16 +97,15 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
 ### <a href="https://vuetifyjs.com/en/components/grids/#v-col">v-row & v-col</a>
 <p>
     Questi due componenti vengono usati per creare delle griglie.
-    Il tag v-col deve essere dentro al tag v-row; dentro ad uno stesso tag v-row ci possono essere più tag v-col (questo vuol dire più colonne nella riga).
-    Il tag v-row può essere accompagnato dalla proprietà dense, che permette di mostrare le righe "più attaccate" tra loro, risulta molto utile quando si hanno molte
+    Il tag <code>v-col</code> deve essere dentro al tag v-row; dentro ad uno stesso tag v-row ci possono essere più tag v-col (questo vuol dire più colonne nella riga).
+    Il tag <code>v-row</code> può essere accompagnato dalla proprietà dense, che permette di mostrare le righe "più attaccate" tra loro, risulta molto utile quando si hanno molte
     righe con dati; per quanto riguarda v-col la proprietà cols (cols="n"), con un numero al posto di n (tra 1 e 12, dove 1 è il minimo e 12 il massimo), è molto utile
     in quanto permette di decidere quante colonne devono essere occupate da un certo elemento.
 </p>
 
 ### <a href="https://vuetifyjs.com/en/components/icons/">v-icon</a>
 <p>
-    Potrebbe essere che vi serva di aggiungere delle icone alla vostra tabella/pagina/bottone. Per poterle aggiungere bisognare mettere un tag v-icon, e tra il tag di 
-    apertura e quello di chiusura va il nome dell'icona che volete mettere; i nomi delle icone potete trovarli <a href="https://materialdesignicons.com/">cliccando 
-    qui</a> e cercando l'icona che più vi aggrada.
-    È possibile cambiare il colore dell'icona attraverso la proprietà color (color="coloreDesiderato").
+    Potrebbe essere che vi serva di aggiungere delle icone alla vostra tabella/pagina/bottone. Per poterle aggiungere bisognare mettere un tag <code>v-icon</code>, e tra il tag di apertura e quello di chiusura va il nome dell'icona che volete mettere; le icone usate di default sono di Material Design Iconse potete trovarli <a href="https://materialdesignicons.com/">cliccando 
+    qui</a> e scegliere l'icona che più vi aggrada.
+    È possibile cambiare il colore dell'icona attraverso la proprietà color <code>color="coloreDesiderato"</code>. Alcuni di questi colori possono essere definiti nei file di config ad esempio possiamo usare le parole chiavi <code>primary o success o error</code> per applicare i colori definiti di default oppure personalizzarli a nostro piacimento
 </p>
