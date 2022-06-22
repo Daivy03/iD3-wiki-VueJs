@@ -31,7 +31,7 @@
 Bisogna aver installato NodeJs, Git (da usare insieme ad un account github) e 
 infine un editor che supporti la sintassi di javascript.
   
-#### Alcuni esempi:
+##### Alcuni esempi:
 <ul>
   <li>Visual Studio Code (consigliato perchè possiede molte estensioni per JS/VueJS)
   </li>
