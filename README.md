@@ -108,18 +108,3 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
     Potrebbe essere che vi serva di aggiungere delle icone alla vostra tabella/pagina/bottone. Per poterle aggiungere bisognare mettere un tag <code>v-icon</code>, e tra il tag di apertura e quello di chiusura va il nome dell'icona che volete mettere; le icone usate di default sono di Material Design Iconse potete trovarli <a href="https://materialdesignicons.com/">cliccando qui</a> e scegliere l'icona che più vi aggrada.
 È possibile cambiare il colore dell'icona attraverso la proprietà color <code>color="coloreDesiderato"</code>. Alcuni di questi colori possono essere definiti nei file di config ad esempio possiamo usare le parole chiavi <code>primary</code> o <code>success</code> o <code>error</code> per applicare i colori definiti di default oppure personalizzarli a nostro piacimento.
 </p>
-<!-- Icons Links -->
-[1]: https://github.com/login
-
-[![github](https://cdn-icons-png.flaticon.com/512/25/25231.png)][1]
-
-
-
-[1]: http://www.github.com/nomi811
-[2]: https://www.linkedin.com/in/nomi-vos-097aa082
-[3]: https://www.facebook.com/nomi.vos
-
----
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][3]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
