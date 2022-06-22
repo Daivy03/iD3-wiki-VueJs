@@ -25,7 +25,7 @@ Indice:
 
 ## Info sul progetto
 
-<p>L'obiettivo di questo progetto è quello di rifare il frontend (la parte che vede l'utente finale) di un portale usato per la distribuzione dell'energia. Il nostro compito è quello di ricreare le pagine del sito attuale, usando i componenti del workframe scelto, in questo caso, Vuetify. Altre persone (più esperte) si occuperanno della parte di backend del progetto, probabilmente alcune saranno nella vostra stessa stanza. Se avete dubbi, domande o perplessità, non abbiate paura a fargli domande.</p>
+<p>L'obiettivo di questo progetto è quello di rifare il frontend (la parte che vede l'utente finale) di un portale usato per la distribuzione dell'energia. Il nostro compito è quello di ricreare le pagine del sito attuale, usando i componenti già pronti dal framework scelto, in questo caso, Vuetify. Altre persone (più esperte) si occuperanno della parte di backend del progetto, probabilmente alcune saranno nella vostra stessa stanza. Se avete dubbi, domande o perplessità, non abbiate paura a fargli domande.</p>
 
 ### Basato su
 
@@ -35,7 +35,7 @@ Indice:
 
 <p>
 Bisogna aver installato NodeJs, Git (da usare insieme ad un account github) e 
-infine un editor che supporti la sintassi di javascript. Di seguito troverai tutto il necessario
+infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto il necessario
 
 </p>
 
@@ -60,7 +60,7 @@ infine un editor che supporti la sintassi di javascript. Di seguito troverai tut
  
 # Sintassi
 <p>
-    La sintassi di Vuetify è simil-HTML, ovvero con tag di apertura e chiusura, tra i quali va il contenuto del tag.
+    La sintassi di Vuetify non è altro che html, ovvero con tag di apertura e/o chiusura, tra i quali va il contenuto del tag. Il vantaggio di questo framework ui rispetto al html è che non bisogna scrivere ogni singola cosa da zero, ma si possono utilizzare componenti e stili già presenti in Vuetify o crearne dei nuovi personalizzati (sempre attenendosi alla documentazione), quindi troverai dei tag che non esistono in html e che iniziano tutti con <monospace><v-nometag></monospace>
     In questa documentazione verranno citati solo i componenti che abbiamo usato più spesso; per l'elenco di tutti i componenti e le loro proprietà guardate la
     documentazione ufficiale disponibile cliccando sull'immagine sottostante.
 </p>
@@ -78,7 +78,7 @@ infine un editor che supporti la sintassi di javascript. Di seguito troverai tut
 
 ### <a href="https://vuetifyjs.com/en/components/cards/">v-card</a>
 <p>
-    Le v-card sono dei componenti versatili, possono contenere molti elementi al loro interno, quali bottoni, icone, tabelle e molti altri.
+    Le v-card sono dei componenti versatili, possono contenere molti elementi al loro interno, quali bottoni, icone, testo, tabelle e molti altri.
     Hanno tre sottocomponenti principali (se vengono usati deve per forza essere all'interno della v-card), che sono il v-card-title, v-card-subtitle e il v-card-text, 
     che servono ad impostare rispettivamente il titolo, il sottotitolo e il testo (corpo) della v-card.
     Una proprietà che abbiamo spesso usato è la proprietà flat, che non crea ombra sulla pagina nella posizione della v-card.
