@@ -31,22 +31,25 @@
 Bisogna aver installato NodeJs, Git (da usare insieme ad un account github) e 
 infine un editor che supporti la sintassi di javascript.
   
-##### Alcuni esempi:
-<ul>
-  <li>Visual Studio Code (consigliato perchè possiede molte estensioni per JS/VueJS)
-  </li>
-  <li>
-    Atom
-  </li>
-  <li>Jetbrains IDE come Webstorm, PhpStorm ecc. (non gratuiti ma disponibili in versione studente)
-  </li>
-  </ul>
+
 </p>
 
 ### Prerequisiti
 <ul>
-  <li><a href="https://nodejs.org/it/">NodeJs</a> - versione LTS</li>
-  <li><a href="https://git-scm.com/downloads">Git</a> - Windows/Linux</li>
+  <li><a href="https://nodejs.org/it/">NodeJs</a>- versione LTS</li>
+  <li><a href="https://git-scm.com/downloads">Git</a>- Windows/Linux</li>
+  <li>Editor Generico o IDE:
+<ul>
+  <li><a href="https://code.visualstudio.com/Download">Visual Studio Code</a> (consigliato perchè possiede molte estensioni per JS/VueJS)
+  </li>
+  <li>
+    <a href="https://visualstudio.microsoft.com/it/vs/community/">Visual Studio Community</a>
+  </li>
+  <li><a href="https://www.jetbrains.com/products/#lang=js">Jetbrains IDE</a> come <a href="https://www.jetbrains.com/webstorm/">Webstorm</a>, 
+    <a href="https://www.jetbrains.com/phpstorm/">PhpStorm</a> ecc. (non gratuiti ma disponibili in versione studente)
+  </li>
+  </ul>
+  </li>
  </ul>
 
 ### Installazione
