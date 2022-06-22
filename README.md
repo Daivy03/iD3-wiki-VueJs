@@ -14,10 +14,9 @@ Indice:
     <a href="#per-cominciare">Per Cominciare</a>
   <ul>
     <li><a href="#prerequisiti">Requisiti</a></li>
-    <li><a href="#installazione">Installazione</a></li>
   </ul>
     </li>
-    <li><a href="#uso">Uso</a></li>
+
 </ul>
 
 ## Info sul progetto
@@ -54,11 +53,3 @@ infine un editor che supporti la sintassi di javascript. Di seguito troverai tut
   </ul>
   </li>
  </ul>
-
-### Installazione
-
-<p></p>
-
-## Uso
-
-<p></p>
