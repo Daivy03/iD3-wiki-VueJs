@@ -60,7 +60,7 @@ infine un editor che supporti la sintassi di javascript. Di seguito troverai tut
 <p>
     La sintassi di Vuetify è simil-HTML, ovvero con tag di apertura e chiusura, tra i quali va il contenuto del tag.
     In questa documentazione verranno citati solo i componenti che abbiamo usato più spesso; per l'elenco di tutti i componenti e le loro proprietà guardate la
-    documentazione ufficiale.
+    documentazione ufficiale disponibile cliccando sull'immagine sottostante.
 </p>
 <p align="center">
     <a href="https://vuetifyjs.com/en/introduction/why-vuetify/">
