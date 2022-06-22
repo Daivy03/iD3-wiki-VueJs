@@ -1,5 +1,7 @@
 # wiki for Vuetify Material Design Framework & VueJs
+
 Indice:
+
 <ul>
     <li>
     <a href="#info-sul-progetto">Info sul progetto</a>
@@ -18,22 +20,25 @@ Indice:
     <li><a href="#uso">Uso</a></li>
 </ul>
 
-  
 ## Info sul progetto
+
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac aliquam diam. Sed finibus velit elit, ut condimentum nisl feugiat in. Pellentesque tempus orci non magna elementum, ut euismod eros ornare. In aliquam non velit at fermentum. Nam erat nunc, cursus nec mauris eget, pharetra faucibus nibh. Integer maximus nisi sit amet lorem tempor tristique. Nam lacinia odio eget sem varius aliquet. Aenean eget eros vel nunc maximus efficitur et nec enim. In placerat urna non nisl elementum, vel sodales dui scelerisque. </p>
 
 ### Basato su
+
 <a href="https://vuetifyjs.com/en/">Vuetify</a> framework per frontend, <a href="https://vuejs.org/">VueJs</a> e <a href="https://nuxtjs.org/">NuxtJs</a> per backend
 
 ## Per Cominciare
+
 <p>
 Bisogna aver installato NodeJs, Git (da usare insieme ad un account github) e 
 infine un editor che supporti la sintassi di javascript. Di seguito troverai tutto il necessario
-  
+
 
 </p>
 
 ### Prerequisiti
+
 <ul>
   <li><a href="https://nodejs.org/it/">NodeJs</a>- versione LTS</li>
   <li><a href="https://git-scm.com/downloads">Git</a>- Windows/Linux</li>
@@ -52,7 +57,9 @@ infine un editor che supporti la sintassi di javascript. Di seguito troverai tut
  </ul>
 
 ### Installazione
+
 <p></p>
 
 ## Uso
+
 <p></p>
