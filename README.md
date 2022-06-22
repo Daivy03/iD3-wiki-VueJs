@@ -111,7 +111,7 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
 <!-- Icons Links -->
 [1]: https://github.com/login
 
-[![github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)][1]
+[![github](https://cdn-icons-png.flaticon.com/512/25/25231.png)][1]
 
 
 
