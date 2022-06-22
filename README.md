@@ -63,11 +63,13 @@ infine un editor che supporti la sintassi di javascript. Di seguito troverai tut
     documentazione ufficiale.
 </p>
 <p align="center">
+    <a href="https://vuetifyjs.com/en/introduction/why-vuetify/">
   <img 
     width="300"
     height="300"
     src="https://raw.githubusercontent.com/DavideReale/iD3-wiki-VueJs/master/vuetify-logo-dark-text.svg?token=GHSAT0AAAAAABVTC3P37CMD3KU5CEPKOODGYVTGNBQ"
   >
+    </a>
 </p>
 
 ### <a href="https://vuetifyjs.com/en/components/cards/">v-card</a>
