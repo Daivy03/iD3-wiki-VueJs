@@ -60,8 +60,9 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
  
 # Sintassi
 <p>
-    La sintassi di Vuetify non è altro che html, ovvero con tag di apertura e/o chiusura, tra i quali va il contenuto del tag. Il vantaggio di questo framework ui rispetto al html è che non bisogna scrivere ogni singola cosa da zero, ma si possono utilizzare componenti e stili già presenti in Vuetify o crearne dei nuovi personalizzati (sempre attenendosi alla documentazione), quindi troverai dei tag che non esistono in html e che iniziano tutti con <monospace><v-nometag></monospace>
-    In questa documentazione verranno citati solo i componenti che abbiamo usato più spesso; per l'elenco di tutti i componenti e le loro proprietà guardate la
+    La sintassi di Vuetify non è altro che quella html, ovvero con tag di apertura e/o chiusura, tra i quali va il contenuto del tag. Il vantaggio di questo framework ui rispetto al html è che non bisogna scrivere ogni singola cosa da zero, ma si possono utilizzare componenti e stili già presenti in Vuetify o crearne dei nuovi personalizzati (sempre attenendosi alla documentazione), quindi troverai dei tag che non esistono in html e che iniziano tutti con
+    <code>v-nometag</code>, ovviamente questo non impedisce di usare i tag "stock" di html.
+ In questa wiki verranno citati solo i componenti che abbiamo usato più spesso; per l'elenco di tutti i componenti e le loro proprietà fate riferimento alla
     documentazione ufficiale disponibile cliccando sull'immagine sottostante.
 </p>
 <p align="center">
@@ -78,8 +79,8 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
 
 ### <a href="https://vuetifyjs.com/en/components/cards/">v-card</a>
 <p>
-    Le v-card sono dei componenti versatili, possono contenere molti elementi al loro interno, quali bottoni, icone, testo, tabelle e molti altri.
-    Hanno tre sottocomponenti principali (se vengono usati deve per forza essere all'interno della v-card), che sono il v-card-title, v-card-subtitle e il v-card-text, 
+    Le <code>v-card</code> sono dei componenti versatili, possono contenere molti elementi al loro interno, quali bottoni, icone, testo, tabelle e molti altri.
+    Hanno tre sottocomponenti principali (se vengono usati deveno per forza essere all'interno della v-card), che sono v-card-title, v-card-subtitle e v-card-text, 
     che servono ad impostare rispettivamente il titolo, il sottotitolo e il testo (corpo) della v-card.
-    Una proprietà che abbiamo spesso usato è la proprietà flat, che non crea ombra sulla pagina nella posizione della v-card.
+    Una proprietà che abbiamo spesso usato è la proprietà flat, che rimuove ombra(elevation in vuetify) della v-card.
 </p>
