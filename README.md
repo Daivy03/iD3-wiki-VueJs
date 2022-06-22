@@ -3,7 +3,7 @@
 
   <summary><b>Indice</b></summary>
   <ol>
-    <li>
+    <li id="#about-the-project">
       <a href="#about-the-project">Info sul progetto</a>
       <ul>
         <li><a href="#built-with"></a></li>
@@ -18,4 +18,6 @@
     </li>
     <li><a href="#usage">Uso</a></li>
   </ol>
+
+
 
