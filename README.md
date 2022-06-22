@@ -4,7 +4,7 @@
   <summary><b>Indice</b></summary>
   <ol>
     <li>
-      <a href="#about-the-project">Info sul progetto</a>
+      <a href="#info-sul-progetto">Info sul progetto</a>
       <ul>
         <li><a href="#built-with"></a></li>
       </ul>
