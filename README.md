@@ -109,4 +109,4 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
 È possibile cambiare il colore dell'icona attraverso la proprietà color <code>color="coloreDesiderato"</code>. Alcuni di questi colori possono essere definiti nei file di config ad esempio possiamo usare le parole chiavi <code>primary</code> o <code>success</code> o <code>error</code> per applicare i colori definiti di default oppure personalizzarli a nostro piacimento.
 </p>
 <!-- Icons Links -->
-[![github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)][1]
+[![github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)]
