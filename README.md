@@ -38,7 +38,7 @@ infine un editor che supporti la sintassi di javascript.
   <li>
     Atom
   </li>
-  <li>Jetbrains IDE come Webstorm, PhpStorm ecc. (non gratuiti ma disponibili in versione scolastica)
+  <li>Jetbrains IDE come Webstorm, PhpStorm ecc. (non gratuiti ma disponibili in versione studente)
   </li>
   </ul>
 </p>
