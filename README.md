@@ -1,6 +1,6 @@
 # wiki for Vuetify Material Design Framework & VueJs
 
-<details>
+
   <summary>Index</summary>
   <ol>
     <li>
@@ -18,4 +18,4 @@
     </li>
     <li><a href="#usage">Uso</a></li>
   </ol>
-</details>
+
