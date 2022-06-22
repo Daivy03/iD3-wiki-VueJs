@@ -13,7 +13,7 @@ Indice:
     <li>
     <a href="#per-cominciare">Per Cominciare</a>
   <ul>
-    <li><a href="#prerequisiti">Requisiti</a></li>
+    <li><a href="#requisiti">Requisiti</a></li>
   </ul>
     </li>
 
