@@ -1,7 +1,7 @@
 # wiki for Vuetify Material Design Framework & VueJs
 
 <details>
-  <summary>Indice</summary>
+  <summary>Ine</summary>
   <ol>
     <li>
       <a href="#about-the-project">Info sul progetto</a>
