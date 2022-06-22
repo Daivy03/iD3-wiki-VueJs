@@ -62,6 +62,13 @@ infine un editor che supporti la sintassi di javascript. Di seguito troverai tut
     In questa documentazione verranno citati solo i componenti che abbiamo usato più spesso; per l'elenco di tutti i componenti e le loro proprietà guardate la
     documentazione ufficiale.
 </p>
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://picsum.photos/300/300"
+  >
+</p>
 
 ### <a href="https://vuetifyjs.com/en/components/cards/">v-card</a>
 <p>
