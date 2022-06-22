@@ -17,8 +17,10 @@ Indice:
   </ul>
     </li>
     <li><a href="#sintassi">
-    Sintassi</a></li>
-
+    Sintassi</a>
+    <ul><li><a href="#componenti">Componenti</a> </li>
+    </ul>
+</li>
 </ul>
 
 ## Info sul progetto
@@ -71,6 +73,8 @@ infine un editor che supporti la sintassi di javascript. Di seguito troverai tut
   >
     </a>
 </p>
+
+## Componenti
 
 ### <a href="https://vuetifyjs.com/en/components/cards/">v-card</a>
 <p>
