@@ -1,4 +1,4 @@
-# wiki for Vuetify Material Design Framework & VueJs
+# wiki for Vuetify Material Design & VueJs Frameworks
 
 <h2> Indice:</h2>
 
