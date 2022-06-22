@@ -57,15 +57,16 @@ infine un editor che supporti la sintassi di javascript. Di seguito troverai tut
  </ul>
  
 # Sintassi
-
+<p>
     La sintassi di Vuetify è simil-HTML, ovvero con tag di apertura e chiusura, tra i quali va il contenuto del tag.
     In questa documentazione verranno citati solo i componenti che abbiamo usato più spesso; per l'elenco di tutti i componenti e le loro proprietà guardate la
     documentazione ufficiale.
-
+</p>
 
 ### <a href="https://vuetifyjs.com/en/components/cards/">v-card</a>
-
+<p>
     Le v-card sono dei componenti versatili, possono contenere molti elementi al loro interno, quali bottoni, icone, tabelle e molti altri.
     Hanno tre sottocomponenti principali (se vengono usati deve per forza essere all'interno della v-card), che sono il v-card-title, v-card-subtitle e il v-card-text, 
     che servono ad impostare rispettivamente il titolo, il sottotitolo e il testo (corpo) della v-card.
     Una proprietà che abbiamo spesso usato è la proprietà flat, che non crea ombra sulla pagina nella posizione della v-card.
+</p>
