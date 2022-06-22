@@ -84,7 +84,7 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
     Una proprietà che abbiamo spesso usato è la proprietà flat, che rimuove ombra(elevation in vuetify) della v-card.
 </p>
 
-### <a href="https://vuetifyjs.com/en/components/data-tables/">data-table</a>
+### <a href="https://vuetifyjs.com/en/components/data-tables/">v-data-table</a>
 
 <p>
     Le <code>v-data-table</code> sono fondamentali per mostrare dati sottoforma di tabelle.
