@@ -1,25 +1,25 @@
 # wiki for Vuetify Material Design Framework & VueJs
 <ol>
 <li>
-<ahref="#info-sul-progetto">Infosulprogetto</a>
+<a href="#info-sul-progetto">Infosulprogetto</a>
 <ul>
-<li><ahref="#basato-su">Basatosu</a></li>
+<li><a href="#basato-su">Basatosu</a></li>
 </ul>
 </li>
 <li>
 
-<ahref="#per-cominciare">PerCominciare</a>
+<a href="#per-cominciare">PerCominciare</a>
 <ul>
-<li><ahref="#prerequisiti">Prerequisiti</a></li>
-<li><ahref="#installazione">Installazione</a></li>
+<li><a href="#prerequisiti">Prerequisiti</a></li>
+<li><a href="#installazione">Installazione</a></li>
 
-<ahref="#getting-started">PerIniziare</a>
+<a href="#getting-started">PerIniziare</a>
 <ul>
-<li><ahref="#prerequisites">Prerequisiti</a></li>
-<li><ahref="#installation">Installazione</a></li>
+<li><a href="#prerequisites">Prerequisiti</a></li>
+<li><a href="#installation">Installazione</a></li>
 </ul>
 </li>
-<li><ahref="#uso">Uso</a></li>
+<li><a href="#uso">Uso</a></li>
 </ol>
   
 ## Info sul progetto
