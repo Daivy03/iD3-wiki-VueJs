@@ -1,11 +1,5 @@
 # wiki for Vuetify Material Design Framework & VueJs
 
-<<<<<<< HEAD
-
-  <summary><b>Indice</b></summary>
-=======
-  <summary>Indice</summary>
->>>>>>> b3957bb8304a96fd766944753088ab247f5af0f5
   <ol>
     <li>
       <a href="#info-sul-progetto">Info sul progetto</a>
