@@ -45,8 +45,8 @@ infine un editor che supporti la sintassi di javascript.
 
 ### Prerequisiti
 <ul>
-  <li><a href="https://nodejs.org/it/">NodeJs</a>- versione LTS</li>
-  <li><a href="https://git-scm.com/downloads">Git</a>- Windows/Linux</li>
+  <li><a href="https://nodejs.org/it/">NodeJs</a> - versione LTS</li>
+  <li><a href="https://git-scm.com/downloads">Git</a> - Windows/Linux</li>
  </ul>
 
 ### Installazione
