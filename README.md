@@ -1,7 +1,11 @@
 # wiki for Vuetify Material Design Framework & VueJs
 
+<<<<<<< HEAD
 
   <summary><b>Indice</b></summary>
+=======
+  <summary>Indice</summary>
+>>>>>>> b3957bb8304a96fd766944753088ab247f5af0f5
   <ol>
     <li>
       <a href="#info-sul-progetto">Info sul progetto</a>
@@ -10,14 +14,22 @@
       </ul>
     </li>
     <li>
+<<<<<<< HEAD
       <a href="#per-cominciare">Per Cominciare</a>
       <ul>
         <li><a href="#prerequisiti">Prerequisiti</a></li>
         <li><a href="#installazione">Installazione</a></li>
+=======
+      <a href="#getting-started">Per Iniziare</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisiti</a></li>
+        <li><a href="#installation">Installazione</a></li>
+>>>>>>> b3957bb8304a96fd766944753088ab247f5af0f5
       </ul>
     </li>
     <li><a href="#uso">Uso</a></li>
   </ol>
+<<<<<<< HEAD
   
 
 ## Info sul progetto
@@ -57,3 +69,5 @@ infine un editor che supporti la sintassi di javascript.
 
 ## Uso
 <p></p>
+=======
+>>>>>>> b3957bb8304a96fd766944753088ab247f5af0f5
