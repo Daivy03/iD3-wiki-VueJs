@@ -29,13 +29,13 @@
 
 ### Basato su
 
-<a href="https://vuetifyjs.com/en/">Vuetify</a> framework per frontend, <a href="https://vuejs.org/">VueJs</a> e <a href="https://nuxtjs.org/">NuxtJs</a> per backend
+<a href="https://vuetifyjs.com/en/">Vuetify</a> framework per frontend, <a href="https://vuejs.org/">VueJs</a> e <a href="https://nuxtjs.org/">NuxtJs</a> per backend.
 
 ## Per Cominciare
 
 <p>
 Bisogna aver installato NodeJs, Git (da usare insieme ad un account github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="16px" height="18px">) e 
-infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto il necessario
+infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto il necessario.
 
 </p>
 
