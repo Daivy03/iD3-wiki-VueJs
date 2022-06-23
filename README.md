@@ -70,7 +70,7 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
     alt="vuetify-logo"
     width="300"
     height="300"
-    src="https://raw.githubusercontent.com/DavideReale/iD3-wiki-VueJs/master/vuetify-logo-dark-text.svg?token=GHSAT0AAAAAABVTC3P3LGPPGLY6S45Y6UK4YVTILOA"
+    src="vuetify-logo-dark-text.svg"
   />
     </a>
 </p>
