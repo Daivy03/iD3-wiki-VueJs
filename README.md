@@ -82,7 +82,7 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
     Le <code>v-card</code> sono dei componenti versatili, possono contenere molti elementi al loro interno, quali bottoni, icone, testo, tabelle e molti altri.
     Hanno tre sottocomponenti principali (se vengono usati deveno per forza essere all'interno della v-card), che sono v-card-title, v-card-subtitle e v-card-text, 
     che servono ad impostare rispettivamente il titolo, il sottotitolo e il testo (corpo) della v-card.
-    Una proprietà che abbiamo spesso usato è la proprietà flat, che rimuove ombra(elevation in vuetify) della v-card.
+    Una proprietà che abbiamo spesso usato è la proprietà flat, che rimuove l'ombra (elevation in vuetify) della v-card.
 </p>
 
 ### <a href="https://vuetifyjs.com/en/components/data-tables/">v-data-table</a>
@@ -105,6 +105,6 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
 
 ### <a href="https://vuetifyjs.com/en/components/icons/">v-icon</a>
 <p>
-    Potrebbe essere che vi serva di aggiungere delle icone alla vostra tabella/pagina/bottone. Per poterle aggiungere bisognare mettere un tag <code>v-icon</code>, e tra il tag di apertura e quello di chiusura va il nome dell'icona che volete mettere; le icone usate di default sono di Material Design Iconse potete trovarli <a href="https://materialdesignicons.com/">cliccando qui</a> e scegliere l'icona che più vi aggrada.
+    Potrebbe essere che vi serva di aggiungere delle icone alla vostra tabella/pagina/bottone. Per poterle aggiungere bisognare mettere un tag <code>v-icon</code>, e tra il tag di apertura e quello di chiusura va il nome dell'icona che volete mettere; le icone usate di default sono di Material Design Icons e potete trovarle <a href="https://materialdesignicons.com/">cliccando qui</a> e scegliendo l'icona che più vi aggrada.
 È possibile cambiare il colore dell'icona attraverso la proprietà color <code>color="coloreDesiderato"</code>. Alcuni di questi colori possono essere definiti nei file di config ad esempio possiamo usare le parole chiavi <code>primary</code> o <code>success</code> o <code>error</code> per applicare i colori definiti di default oppure personalizzarli a nostro piacimento.
 </p>
