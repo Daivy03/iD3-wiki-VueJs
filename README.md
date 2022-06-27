@@ -48,9 +48,6 @@ infine un editor che supporti la sintassi di javascript. Di seguito trovi tutto 
 <ul>
   <li><a href="https://code.visualstudio.com/Download">Visual Studio Code</a> (consigliato perchè possiede molte estensioni per JS/VueJS)
   </li>
-  <li>
-    <a href="https://visualstudio.microsoft.com/it/vs/community/">Visual Studio Community</a>
-  </li>
   <li><a href="https://www.jetbrains.com/products/#lang=js">Jetbrains IDE</a> come <a href="https://www.jetbrains.com/webstorm/">Webstorm</a>, 
     <a href="https://www.jetbrains.com/phpstorm/">PhpStorm</a> ecc. (non gratuiti ma disponibili in versione studente)
   </li>
